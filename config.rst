@@ -47,8 +47,8 @@ Credentials *(passwords set at first boot)*
 -------------------------------------------
 
 -  Webmin, SSH: username **root**
--  GitLab: test test1qaz2wsx
-// gitlab: wanglei  wanglei123456
+-  GitLab: ops adm@Sec!4321
+// gitlab: zhangyong  zhangyong@123
 .. _GitLab: http://git-core02.qianxin-inc.cn/
 
 
